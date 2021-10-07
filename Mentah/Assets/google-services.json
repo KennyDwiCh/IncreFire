@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "631797395022",
+    "project_id": "incremenrtt",
+    "storage_bucket": "incremenrtt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631797395022:android:a4e60a565e7fdf317a1d1f",
+        "android_client_info": {
+          "package_name": "com.dilo.incre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631797395022-ft013prbudnasjb08ong3vr8unta19ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzTLq4FjgVQM3Bzk-G9LuDcqCKzHfGMzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631797395022-ft013prbudnasjb08ong3vr8unta19ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631797395022:android:ff6935e3610043757a1d1f",
+        "android_client_info": {
+          "package_name": "com.dilo.incrementttt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631797395022-ft013prbudnasjb08ong3vr8unta19ud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzTLq4FjgVQM3Bzk-G9LuDcqCKzHfGMzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631797395022-ft013prbudnasjb08ong3vr8unta19ud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
